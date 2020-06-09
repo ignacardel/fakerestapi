@@ -1,0 +1,16 @@
+{
+  "customers": [
+    {
+      "id": 1,
+      "workingSector": "Transportation"
+    },
+    {
+      "id": 2,
+      "workingSector": "Medicine"
+    },
+    {
+      "id": 3,
+      "workingSector": "Government"
+    }
+  ]
+}
