@@ -1,15 +1,15 @@
 {
   "customers": [
     {
-      "customerNo": 1,
+      "customerNo": 100,
       "workingSector": "Transportation"
     },
     {
-      "customerNo": 2,
+      "customerNo": 200,
       "workingSector": "Medicine"
     },
     {
-      "customerNo": 3,
+      "customerNo": 300,
       "workingSector": "Government"
     }
   ],
