@@ -1,29 +1,29 @@
 {
   "customers": [
     {
-      "customerNo": 100,
+      "id": 100,
       "workingSector": "Transportation"
     },
     {
-      "customerNo": 200,
+      "id": 200,
       "workingSector": "Medicine"
     },
     {
-      "customerNo": 300,
+      "id": 300,
       "workingSector": "Government"
     }
   ],
   "accounts": [
     {
-      "accountId": 1,
+      "id": 1,
       "customerNo": 100
     },
     {
-      "accountId": 2,
+      "id": 2,
       "customerNo": 200
     },
     {
-      "accountId": 3,
+      "id": 3,
       "customerNo": 300
     }
   ]
